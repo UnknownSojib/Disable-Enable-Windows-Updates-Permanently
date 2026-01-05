@@ -1,4 +1,4 @@
-# Disable-Enable-Windows-Updates-Permanently
+# Disable Enable Windows Updates Permanently
 
 Are you fed up with Windows updates? In this video,
 
