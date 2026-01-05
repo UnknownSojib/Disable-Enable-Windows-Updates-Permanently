@@ -1,6 +1,6 @@
 # Disable Enable Windows Updates Permanently
 
-Are you fed up with Windows updates? In this video,
+Are you fed up with Windows updates?
 
 Expert IT Solution demonstrates a simple way to permanently disable Windows 10 and 11 updates.
 
